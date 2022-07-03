@@ -1,8 +1,4 @@
-# Howdy, ya'll! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-
-My name is Seth Jaksik and I'm an Embedded Software Engineer. I'm from Texas and currently working at Lockheed Martin. You can find me on [![LinkedIn][3.2]][3].
-
-<h1 align="center">Hi 👋, I'm Seth Jaksik</h1>
+<h1 align="center">Howdy ya'll <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Seth Jaksik</h1>
 <h3 align="center">A passionate embedded software engineer</h3>
 
 - 📫 How to reach me **sethjaksik@gmail.com**
