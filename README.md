@@ -1,5 +1,5 @@
-<h1 align="center">Howdy ya'll <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Seth Jaksik</h1>
-<h3 align="center">A passionate embedded software engineer</h3>
+<h1 align="center">Howdy ya'll <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></h1>
+<h3 align="center">I'm Seth, a passionate embedded software engineer</h3>
 
 - 📫 How to reach me **sethjaksik@gmail.com**
 
