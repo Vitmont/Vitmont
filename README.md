@@ -1,6 +1,6 @@
 <p align="center">
-  ![Seth Jaksik](https://raw.githubusercontent.com/Vitmont/Vitmont/main/seth-jaksik.svg)
-</p>
+    <img src="(https://raw.githubusercontent.com/Vitmont/Vitmont/main/seth-jaksik.svg">
+p>
 
 <p align="center">
 Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to lead people, Helps them to achieve their goals and consistently looking for innovating something for improving lives of people
