@@ -8,7 +8,7 @@ Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to 
   · <a href="https://registry.jsonresume.org/Vitmont">Resume</a>
  · 
 <br>
-<a href="https://lockheedmartin.com/">Embedded Software Engineer @LMCO</a>
+<a href="https://lockheedmartin.com/">Embedded Software Engineer @ LMCO</a>
 <br>
  <p align="center">
  <a href="https://twitter.com/imtrilokia"><img src="https://img.shields.io/twitter/follow/imtrilokia?style=social" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
