@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vitmont/Vitmont/main/seth-jaksik-blue-2.svg" />
+  <img src="https://raw.githubusercontent.com/Vitmont/Vitmont/main/seth-jaksik.svg" />
 </p>
 
 <p align="center">
