@@ -26,6 +26,6 @@ Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to 
 
 </p>
 
-![Seth Jaksik]https://raw.githubusercontent.com/Vitmont/Vitmont/main/bottom_header.svg)
+![Seth Jaksik](https://raw.githubusercontent.com/Vitmont/Vitmont/main/bottom_header.svg)
 <br>
 </p>
