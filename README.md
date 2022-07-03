@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-The wages of sin is debugging - Ron Jeffries
+"_The wages of sin is debugging_" - Ron Jeffries
 <br><br>
   · <a href="https://registry.jsonresume.org/Vitmont">Resume</a>
  · 
