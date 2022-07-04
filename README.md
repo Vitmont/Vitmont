@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  "<em>The wages of sin is debugging</em>" - Ron Jeffries
+  "<em>A good programmer is someone who always looks both ways before crossing a one-way street.</em>" - Doug Linder
 <br><br>
   · <a href="https://registry.jsonresume.org/Vitmont">Resume</a>
  · 
