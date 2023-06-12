@@ -8,7 +8,7 @@
   · <a href="https://github.com/vitmont/resume/blob/main/Resume.pdf">Resume</a>
  · 
 <br>
-<a href="https://lockheedmartin.com/">Software Engineer @ LMCO</a>
+<a href="https://lockheedmartin.com/">Software Engineer @ Semgrep</a>
 <br>
  <p align="center">
    <a href="https://www.linkedin.com/in/seth-jaksik/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp
