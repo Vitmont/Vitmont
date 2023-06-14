@@ -16,13 +16,6 @@
 <br>
 <br>
 
-
-<p align="center">
- <i>Take a look at my repositories and let's get in touch!</i>
-<p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=vitmont"/>       
-</p>
-
 </p>
 
 ![Seth Jaksik](https://raw.githubusercontent.com/Vitmont/Vitmont/main/bottom_header.svg)
